@@ -2,7 +2,7 @@
 
 **Version 3.0.0**
 
-[![Build Status](https://secure.travis-ci.org/Atlantic18/DoctrineExtensions.png?branch=master)](http://travis-ci.org/Atlantic18/DoctrineExtensions)
+[![Build Status](https://secure.travis-ci.org/andriuspetrauskis/DoctrineExtensions.png?branch=master)](http://travis-ci.org/andriuspetrauskis/DoctrineExtensions)
 [![Total Downloads](https://poser.pugx.org/gedmo/doctrine-extensions/downloads.png)](https://packagist.org/packages/gedmo/doctrine-extensions)
 [![Latest Stable Version](https://poser.pugx.org/gedmo/doctrine-extensions/v/stable.png)](https://packagist.org/packages/gedmo/doctrine-extensions)
 
